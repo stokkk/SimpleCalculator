@@ -1,13 +1,12 @@
 // Program Calculator
 // Program language C
 // Author Hudoits Dzianis
-// Sorry for my english:)
 
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
 
-
+// math operations (+,-,/,*)
 float Plus(float a, float b) {
 	return a + b;
 }
